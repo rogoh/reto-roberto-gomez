@@ -1,0 +1,9 @@
+---
+title: "Reto - Evaluacion Modulo 6"
+---
+
+Sitio Web
+
+Destinado al despliegue de los Proyectos para la evaluacion del Modulo 6 del Diplomado de Ciencia de Datos.
+
+Sitio creado por Roberto Gomez Hernandez
