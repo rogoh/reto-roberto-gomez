@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "FireBase Web Application"
-      href: index.html
+      href: https://citybike-roberto-gomez.web.app
     - text: "Shiny Web Application"
       href: index.html  
     - text: "About"
