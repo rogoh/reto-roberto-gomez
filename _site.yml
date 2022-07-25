@@ -7,6 +7,6 @@ navbar:
     - text: "FireBase Web Application"
       href: https://citybike-roberto-gomez.web.app
     - text: "Shiny Web Application"
-      href: index.html  
+      href: https://shiny-reto.herokuapp.com  
     - text: "About"
       href: about.html
